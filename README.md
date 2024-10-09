@@ -48,3 +48,17 @@ This repository contains the materials and notebooks for learning PySpark. PySpa
 1. Install PySpark:
    ```bash
    pip install pyspark
+
+
+	2.	Open the Jupyter Notebooks (Basics.ipynb and Part_2.ipynb) in your local environment.
+	3.	Follow along with the notebooks to understand the basic and advanced operations in PySpark.
+
+Future Work
+
+	•	Diving deeper into Spark MLlib for machine learning on large datasets.
+	•	Exploring Spark Streaming for real-time data processing.
+	•	Connecting PySpark to various data sources such as Hadoop and AWS S3.
+
+Conclusion
+
+This tutorial provides a comprehensive introduction to PySpark, focusing on understanding its core concepts and applying them to real-world data problems. By the end of the tutorial, you will have a solid understanding of PySpark’s capabilities and how to use it for big data processing and analytics.
